@@ -1,0 +1,6 @@
+# configuration
+/.envrc
+
+# generated files
+/inbox.org
+/items.*.json
