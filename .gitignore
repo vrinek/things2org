@@ -2,5 +2,5 @@
 /.envrc
 
 # generated files
-/inbox.org
+/*.org
 /items.*.json
