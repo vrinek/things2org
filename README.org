@@ -29,3 +29,21 @@ This will generate a bunch of =items.*.json= files with all your data.
 #+end_src
 
 This will print your Things inbox as an org mode file.
+
+** List your extra files
+
+#+begin_src sh
+./list_extra_files.rb
+#+end_src
+
+The assumption of this software is that each area and each project will be contained in its own file. This script prints the file structure of these areas and projects.
+
+The names of the areas and projects will be normalized, so "My Project" will become "my-project.org".
+
+** Make your extra files
+
+#+begin_src sh
+./make_extra_file.rb my-project.org > my-project.org
+#+end_src
+
+This will print the contents of the project named "My Project" and store it in =my-project.org=.
