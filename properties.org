@@ -1,0 +1,42 @@
+#+title: Properties
+
+| prop | explanation                       |
+|------+-----------------------------------|
+| acrd |                                   |
+| agr  |                                   |
+| ar   | area id                           |
+| ato  |                                   |
+| cd   | created datetime                  |
+| dd   | deadline                          |
+| dds  |                                   |
+| dl   |                                   |
+| do   |                                   |
+| icc  |                                   |
+| icp  |                                   |
+| icsd |                                   |
+| ix   | index                             |
+| lai  |                                   |
+| lt   |                                   |
+| md   | modified datetime                 |
+| nt   | note events                       |
+| nt.t | 1 = initial, 2 = edit             |
+| nt.p | edit start                        |
+| nt.l | edit length                       |
+| nt.r | edit replace string               |
+| pr   | project ids (always one)          |
+| rmd  |                                   |
+| rp   |                                   |
+| rr   |                                   |
+| rt   | task id this repeats              |
+| sb   |                                   |
+| sp   |                                   |
+| sr   | scheduled time                    |
+| ss   | 2 = cancel, 3 = done              |
+| st   | 2 = someday                       |
+| tg   | tag ids                           |
+| ti   |                                   |
+| tir  |                                   |
+| tp   | 0 = Task, 1 = Project, 2 = Header |
+| tr   |                                   |
+| tt   | task title                        |
+| xx   |                                   |

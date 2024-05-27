@@ -1,0 +1,5 @@
+#+title: Things2Org
+
+The (eventual) aim of this software is to provide bidirectional sync of Things.app and org-mode files.
+
+To do this, it makes use of Things Cloud.
