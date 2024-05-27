@@ -3,3 +3,29 @@
 The (eventual) aim of this software is to provide bidirectional sync of Things.app and org-mode files.
 
 To do this, it makes use of Things Cloud.
+
+* Install
+
+#+begin_src sh
+bundle # installs the Ruby gems
+#+end_src
+
+* Running it
+
+** Fetch your data
+
+You will need to make your =history_key= available for this.
+
+#+begin_src sh
+history_key="[...]" ./fetch_all_history.fish
+#+end_src
+
+This will generate a bunch of =items.*.json= files with all your data.
+
+** Print your inbox
+
+#+begin_src sh
+./make_inbox.rb > inbox.org
+#+end_src
+
+This will print your Things inbox as an org mode file.
