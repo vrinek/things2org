@@ -1,0 +1,43 @@
+init tests with sample project
+completed first task
+created new todo in project
+completed second task
+scheduled task for today
+scheduled task for June 6th
+created new heading
+moved task under new heading
+created a new project
+created "work" area
+moved new project to work area
+completed some tasks
+completed some more tasks
+completed a checklist
+removed a checklist item
+canceled a checklist item
+created a new checklist item
+edited a checklist item
+quick capture a task to inbox
+tagged a task
+created new tag
+deleted a tag
+completed two checklist items
+set reminder on a task
+planned task for this evening
+converted task to project
+schedule task to repeat after completion, after one week
+duplicated task
+edit the note of a task
+set deadline of task to June 14th
+cancel a task
+set task to repeat every 2 months, after completion, with a reminder at 12:00
+schedule task to someday
+repeat task weekly on Mon/Wed/Fri
+repeat task every month, after completion, with deadline, and schedule 5 days earlier
+remove task from project
+complete some tasks
+complete project
+cancel project
+rename area
+delete area
+delete project
+move task to no project

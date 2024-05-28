@@ -7,17 +7,20 @@ require_relative "item_event"
 require_relative "tag"
 require_relative "area"
 require_relative "task"
+require_relative "header"
 require_relative "project"
 require_relative "item_json_merger"
 
 class ThingsOrg
-  def initialize(items_json)
+  def initialize(items_json, at: nil)
     @items_json = JSON[items_json]
+    @at = at
 
     initialize_tags_store!
     initialize_areas_store!
     initialize_projects_store!
     initialize_tasks_store!
+    initialize_headers_store!
   end
 
   def inbox_org
@@ -47,15 +50,21 @@ class ThingsOrg
   end
 
   def make_extra(filename)
-    area = areas.find { |area| area.filename == filename }
-
-    tasks_org = tasks_org(tasks.select { |t| t.area_id == area.id })
+    if area = areas.find { |area| area.filename == filename }
+      tasks_org = tasks_org(tasks.select { |t| t.area_id == area.id })
+      things_id = area.id
+      title = area.title
+    elsif project = projects.find { |project| project.filename == filename }
+      tasks_org = tasks_org(tasks.select { |t| t.project_id == project.id })
+      things_id = project.id
+      title = project.title
+    end
 
     things_id_property = <<~ORG
-      #+PROPERTY: things_id #{area.id}
+      #+PROPERTY: things_id #{things_id}
     ORG
 
-    org_file_title(area.title) + things_id_property + tasks_org
+    org_file_title(title) + things_id_property + tasks_org
   end
 
   private
@@ -72,8 +81,16 @@ class ThingsOrg
     ORG
   end
 
+  def items
+    if @at
+      @items_json["items"][0..@at]
+    else
+      @items_json["items"]
+    end
+  end
+
   def item_events
-    @items_json["items"].map.with_index do |events, index|
+    items.map.with_index do |events, index|
       events.map do |item_id, event|
         ItemEvent.new(index, item_id, event)
       end
@@ -137,5 +154,20 @@ class ThingsOrg
 
   def projects
     Project::STORE
+  end
+
+  def initialize_headers_store!
+    Header::STORE.clear
+
+    item_events
+      .select { |item_event| item_event.payload["e"] == "Task6" }
+      .group_by(&:item_id)
+      .map { |item_id, events| Header.new(item_id, events) }
+      .select { |header| header.is_header? }
+      .each { |header| Header::STORE << header }
+  end
+
+  def headers
+    Header::STORE
   end
 end

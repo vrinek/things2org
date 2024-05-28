@@ -40,6 +40,10 @@ TaskBase = Struct.new(:id, :events) do
     last_event_prop("tp") == 1
   end
 
+  def is_header?
+    last_event_prop("tp") == 2
+  end
+
   def is_scheduled?
     scheduled.present?
   end

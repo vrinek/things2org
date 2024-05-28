@@ -1,6 +1,7 @@
 require_relative "task_base"
 require_relative "project"
 require_relative "note"
+require_relative "header"
 
 class Task < TaskBase
   def to_org
@@ -8,19 +9,29 @@ class Task < TaskBase
   end
 
   def project
-    return if project_id.nil?
+    return Project::STORE.find { |project| project.id == project_id } if project_id
 
-    Project::STORE.find { |project| project.id == project_id }
+    header&.project
+  end
+
+  def header
+    return if header_id.nil?
+
+    Header::STORE.find { |header| header.id == header_id }
   end
 
   def belongs_to_project?
-    project_id.present?
+    project_id.present? || header_id.present?
+  end
+
+  def project_id
+    last_event_prop("pr")&.first || header&.project_id
   end
 
   private
 
-  def project_id
-    last_event_prop("pr")&.first
+  def header_id
+    last_event_prop("agr")&.first
   end
 
   def note
