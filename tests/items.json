@@ -1,0 +1,3552 @@
+{
+  "start-total-content-size": 0,
+  "latest-total-content-size": 16183,
+  "schema": 301,
+  "end-total-content-size": 16183,
+  "current-item-index": 43,
+  "items": [
+    {
+      "3p4vwJBGjb3eMzEcV74LMf": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "You’re done!",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [
+            "WvJCDKLcp1GnBNqkHkzz5C"
+          ],
+          "ix": 0,
+          "cd": 1716923282.1587181,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716923282.1593881,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 315198219,
+            "v": "That’s all you really need to know. Feel free to start adding your own projects and to-dos.\n\nYou can come back to this project later to learn the advanced features below. When you’re done with the project, click the progress ring at the top to mark it complete.\n\nWe hope you’ll enjoy using Things!",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "Lu1TnPynhZq2mroFgUwKWu": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "Show your calendar events",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [
+            "RGPENmADnbD7oybFGv9bQG"
+          ],
+          "ix": -634,
+          "cd": 1716923282.1603301,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716923282.1609612,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 3688552736,
+            "v": "You can connect your calendars to Things and see all of your events and to-dos together. Go to Things → Settings (or Preferences) → Calendar to turn it on.",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "JY1EGXGGhQz552GRi4KieR": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 2,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "Before you go…",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [],
+          "ix": 0,
+          "cd": 1716923282.180541,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716923282.180742,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 0,
+            "v": "",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [
+            "KL3UrmiJYxHBDc3SH6bCP4"
+          ],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "P6e4AUKB8MT6sE1cnhQ6JA": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "Add some widgets",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [
+            "RGPENmADnbD7oybFGv9bQG"
+          ],
+          "ix": -269,
+          "cd": 1716923282.1612458,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716923282.164475,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 4152862672,
+            "v": "Widgets let you quickly access your lists from your Mac’s desktop (macOS 14 or later), or the Notification Center on the right side of your screen.\n\nYou can add as many widgets as you like. Here’s how:",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "8L7pqXZ2cYdWFhCVWLGomM": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "Structure your notes with Markdown",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [
+            "DtmPhe9bnXuto82KhxYeiV"
+          ],
+          "ix": 492,
+          "cd": 1716923282.180022,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716923282.1804099,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 4171570814,
+            "v": "Things supports Markdown for adding structure and style to your notes.\n\nIf you don’t know Markdown, here’s how it works. To emphasize a word, simply surround it with asterisks, like so: *emphasized*. As you can see, Things detects this and displays the word in italics. If you remove those asterisks, it will go back to normal.\n\nHere are a few more examples:\n- Use two asterisks to make text **bold**\n- Use colons to ::highlight text::\n- Insert “#” at the beginning of a line to make a heading, like so:\n\n# This is a heading\n\n---\n\nMarkdown is a bit quirky, but it’s great for quickly styling your text while you type. You can also use keyboard shortcuts, which you can find in Edit → Markdown.\n\nTo learn more, check out our Markdown Guide: culturedcode.com/things/help/markdown/",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "GmpiV4fNU9EB1MF1dj3DnW": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "Add this to-do to your Today list",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [
+            "WvJCDKLcp1GnBNqkHkzz5C"
+          ],
+          "ix": -171,
+          "cd": 1716923282.1541262,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716923282.154752,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 2488122745,
+            "v": "Click the calendar button below to plan when you’ll do this to-do. Choose Today.",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "XdDBCjmEXEhjZy9A2wFFKP": {
+        "t": 0,
+        "e": "Tag4",
+        "p": {
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          },
+          "pn": [],
+          "ix": -49,
+          "sh": null,
+          "tt": "Important"
+        }
+      },
+      "4UZgCxuw7arXPY2gp4tUrV": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "Link to emails, files, and web pages",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [
+            "DtmPhe9bnXuto82KhxYeiV"
+          ],
+          "ix": -182,
+          "cd": 1716923282.167661,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716923282.1683311,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 1423970477,
+            "v": "You can link to emails, files, and web pages by simply dragging them into the notes of a to-do.\n\nEven better, you can use Quick Entry’s Autofill feature to do it automatically. To enable Autofill, go to Things → Settings (or Preferences) → Quick Entry.",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "Y2bybdPvcRa1dNEgo8TQ62": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "Add to-dos from anywhere",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [
+            "DtmPhe9bnXuto82KhxYeiV"
+          ],
+          "ix": -361,
+          "cd": 1716923282.1666899,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716923282.1673751,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 3030284080,
+            "v": "No matter which app you’re in, you can use Quick Entry to add to-dos to Things. Try it now by hitting Ctrl+Space.",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "V1FGMRfV4dcZUx7Bsa8kBZ": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "Make your to-dos repeat",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [
+            "DtmPhe9bnXuto82KhxYeiV"
+          ],
+          "ix": -1,
+          "cd": 1716923282.179153,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716923282.1794472,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 2467039566,
+            "v": "There are some things you do every few days, weeks, or months. Create a repeating to-do and Things will automatically remind you on the right day. It’s a great time-saver, and makes you consistent.\n\nTo create one, go to File → New Repeating To-Do.",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "Lmb7DywhXhFLxBCYPUkXiz": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "Any questions? We’re here to help!",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [
+            "JY1EGXGGhQz552GRi4KieR"
+          ],
+          "ix": 0,
+          "cd": 1716923282.1821351,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716923282.1824331,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 4284693239,
+            "v": "If you have any questions, we have a great collection of support articles on our website. You can also send us a message and we’ll be glad to help!\n\nculturedcode.com/things/support/",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "23SzW3wvTE1ZiTui8VEqPL": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "Organize with areas",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [
+            "WvJCDKLcp1GnBNqkHkzz5C"
+          ],
+          "ix": -12,
+          "cd": 1716923282.1577921,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716923282.1584501,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 1049850093,
+            "v": "Create an area for each sphere of your life, such as Work, Family, Finance, and so on. You can drop your projects into them to stay organized.\n\nAt the bottom of the sidebar, click “+ New List” to create one.\n\nUnlike projects, areas are never completed.",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "H96sVJwE7VJveAnv7itmux": {
+        "t": 0,
+        "e": "Tag4",
+        "p": {
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          },
+          "pn": [],
+          "ix": -386,
+          "sh": null,
+          "tt": "Errand"
+        }
+      },
+      "Qt2AY87x2QDdowSn9HKTt1": {
+        "t": 0,
+        "e": "Tag4",
+        "p": {
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          },
+          "pn": [],
+          "ix": -78,
+          "sh": null,
+          "tt": "Office"
+        }
+      },
+      "BULfa35PCAn1LtsmBA6A2u": {
+        "t": 0,
+        "e": "Tag4",
+        "p": {
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          },
+          "pn": [],
+          "ix": 0,
+          "sh": null,
+          "tt": "Pending"
+        }
+      },
+      "FDpUvUsFZoXyRMm9UWn4FY": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "Learn some keyboard shortcuts",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [
+            "DtmPhe9bnXuto82KhxYeiV"
+          ],
+          "ix": 0,
+          "cd": 1716923282.1795759,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716923282.1798849,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 3519770301,
+            "v": "To explore all of Things’ shortcuts, go to Help → Keyboard Shortcuts. Here are the most important ones:\n\n⌘S: choose when to start a to-do\n⌘T: mark a to-do as Today\n⌘⇧M: move a to-do to another list\n\n⌘↑: move a to-do up\n⌘↓: move a to-do down",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "VoMahmMJAu7ry8k5WVgxjr": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "Plan this to-do for later",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [
+            "WvJCDKLcp1GnBNqkHkzz5C"
+          ],
+          "ix": -83,
+          "cd": 1716923282.1550379,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716923282.1557379,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 337729040,
+            "v": "Click the calendar button again, but this time, choose a date in the future. It will automatically appear in your Today list when the date comes.\n\nInside projects, to-dos that are scheduled for a later date will be shown at the bottom.",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "RhAzEf6qDxCD5PmnZVtBZR": {
+        "t": 0,
+        "e": "Settings5",
+        "p": {
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          },
+          "usat": null,
+          "li": 0,
+          "grpt": false,
+          "ld": null
+        }
+      },
+      "WvJCDKLcp1GnBNqkHkzz5C": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 2,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "Learn the basics",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [],
+          "ix": -361,
+          "cd": 1716923282.1508961,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716923282.1513839,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 0,
+            "v": "",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [
+            "KL3UrmiJYxHBDc3SH6bCP4"
+          ],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "Xzj8M5kzNSXWaHportC44E": {
+        "t": 0,
+        "e": "ChecklistItem3",
+        "p": {
+          "lt": false,
+          "cd": 1716923282.171339,
+          "ts": [
+            "KyD6a4DstFagKsniCwX6WH"
+          ],
+          "sp": null,
+          "ss": 0,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          },
+          "md": 1716923282.1721849,
+          "tt": "Mix 1 cup of peanut butter, 1 cup of white sugar, and 1 egg with an electric mixer until it’s smooth and creamy",
+          "ix": -397
+        }
+      },
+      "NwvHpykQrmRTsS417mePd": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "Search and navigate with Quick Find",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [
+            "DtmPhe9bnXuto82KhxYeiV"
+          ],
+          "ix": -102,
+          "cd": 1716923282.1685948,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716923282.169214,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 3601911593,
+            "v": "Finding things is super easy with Quick Find. Collapse this to-do, and then just start typing – the name of a list, project, to-do, or tag – and be taken there instantly.",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "7yJafyWRurCsUBU31CHtjh": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "Convert a to-do into a project",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [
+            "DtmPhe9bnXuto82KhxYeiV"
+          ],
+          "ix": -2,
+          "cd": 1716923282.1772089,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716923282.179019,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 1546086623,
+            "v": "Sometimes you might create a to-do, but realize later that it’s actually a more complex project. No problem! In the toolbar below, click ••• and choose Convert to Project.\n\nThese checklist items will become to-dos inside your new project:",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "KmQ9unJJ6hqdbXJAGEJ2Vf": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "Open multiple windows",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [
+            "DtmPhe9bnXuto82KhxYeiV"
+          ],
+          "ix": -3,
+          "cd": 1716923282.17625,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716923282.176897,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 134105047,
+            "v": "As you organize your to-dos, it can be very helpful to have multiple lists open side by side. Right-click any list in the sidebar to open it in a new window.",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "MgP1KNFPb3E5zdkKKMmGGK": {
+        "t": 0,
+        "e": "ChecklistItem3",
+        "p": {
+          "lt": false,
+          "cd": 1716923282.178251,
+          "ts": [
+            "7yJafyWRurCsUBU31CHtjh"
+          ],
+          "sp": null,
+          "ss": 0,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          },
+          "md": 1716923282.178581,
+          "tt": "To-do #2",
+          "ix": 0
+        }
+      },
+      "23mwAoo4jkPWmJTBQhE3mw": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "Create a project",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [
+            "WvJCDKLcp1GnBNqkHkzz5C"
+          ],
+          "ix": -23,
+          "cd": 1716923282.1569099,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716923282.157527,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 171177819,
+            "v": "On to bigger things! At the bottom of the sidebar, click “+ New List” to add a project of your own.",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "HrFcxjJtBk7GDZyQ6Awc1H": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "Double-click this to-do",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [
+            "WvJCDKLcp1GnBNqkHkzz5C"
+          ],
+          "ix": -559,
+          "cd": 1716923282.1518068,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716923282.15272,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 1836250108,
+            "v": "You’re looking at a to-do! Complete it by clicking the checkbox on the left. Completed to-dos are collected at the bottom of your project.",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "DtmPhe9bnXuto82KhxYeiV": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 2,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "Boost your productivity",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [],
+          "ix": -67,
+          "cd": 1716923282.1659341,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716923282.166431,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 0,
+            "v": "",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [
+            "KL3UrmiJYxHBDc3SH6bCP4"
+          ],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "RGPENmADnbD7oybFGv9bQG": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 2,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "Tune your setup",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [],
+          "ix": -173,
+          "cd": 1716923282.1596498,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716923282.1600909,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 0,
+            "v": "",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [
+            "KL3UrmiJYxHBDc3SH6bCP4"
+          ],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "Kk5hFdAiuqDMJQscZWrEyD": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "Rate the app",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [
+            "JY1EGXGGhQz552GRi4KieR"
+          ],
+          "ix": -182,
+          "cd": 1716923282.181284,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716923282.1815729,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 135428847,
+            "v": "If you like Things, please rate it in the App Store – this makes a huge difference!\n\nculturedcode.com/things/mac/appstore/",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "N6hQSHomizTrbj9sH622Nc": {
+        "t": 0,
+        "e": "ChecklistItem3",
+        "p": {
+          "lt": false,
+          "cd": 1716923282.177937,
+          "ts": [
+            "7yJafyWRurCsUBU31CHtjh"
+          ],
+          "sp": null,
+          "ss": 0,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          },
+          "md": 1716923282.1784868,
+          "tt": "To-do #1",
+          "ix": -475
+        }
+      },
+      "GTF4RD3xbiWnyDFbVCJXTZ": {
+        "t": 0,
+        "e": "ChecklistItem3",
+        "p": {
+          "lt": false,
+          "cd": 1716923282.171068,
+          "ts": [
+            "KyD6a4DstFagKsniCwX6WH"
+          ],
+          "sp": null,
+          "ss": 0,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          },
+          "md": 1716923282.1721001,
+          "tt": "Preheat the oven to 350ºF (175ºC)",
+          "ix": -616
+        }
+      },
+      "KyD6a4DstFagKsniCwX6WH": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "Go step by step with checklists",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [
+            "DtmPhe9bnXuto82KhxYeiV"
+          ],
+          "ix": -22,
+          "cd": 1716923282.170423,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716923282.173136,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 724580952,
+            "v": "Break a to-do down into smaller steps by adding a checklist. You could use it to track a daily routine, pack a suitcase, make a grocery list, and so on.\n\nAnd who knew it was so easy to make peanut butter cookies? 😃",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "X4iDwdyczTadnxRJTrdACQ": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "Stay in the loop",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [
+            "JY1EGXGGhQz552GRi4KieR"
+          ],
+          "ix": -410,
+          "cd": 1716923282.180856,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716923282.18116,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 2536467430,
+            "v": "Be the first to know about the latest features and developments. Follow us on social networks or sign up for our newsletter: culturedcode.com/follow/",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "7XKML3WMj6Gr8tbpTaXTtM": {
+        "t": 0,
+        "e": "ChecklistItem3",
+        "p": {
+          "lt": false,
+          "cd": 1716923282.1628041,
+          "ts": [
+            "P6e4AUKB8MT6sE1cnhQ6JA"
+          ],
+          "sp": null,
+          "ss": 0,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          },
+          "md": 1716923282.1635361,
+          "tt": "Search for Things and add a widget (make sure you’re adding a widget for the Mac version of Things, not the iPhone version)",
+          "ix": -84
+        }
+      },
+      "KNupt7QcSkyC75e9HE8DJS": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "Plan your evening",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [
+            "DtmPhe9bnXuto82KhxYeiV"
+          ],
+          "ix": -9,
+          "cd": 1716923282.1743069,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716923282.174906,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 1768721404,
+            "v": "As you use Things to manage both your work and personal life, you’ll find it convenient to set some of your to-dos aside for later in the day. Click the calendar button below and choose “This Evening”.",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "2sUfg8A5SmUNzzaYe1tY81": {
+        "t": 0,
+        "e": "ChecklistItem3",
+        "p": {
+          "lt": false,
+          "cd": 1716923282.1631379,
+          "ts": [
+            "P6e4AUKB8MT6sE1cnhQ6JA"
+          ],
+          "sp": null,
+          "ss": 0,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          },
+          "md": 1716923282.1636319,
+          "tt": "Right-click the widget to edit which list it shows",
+          "ix": 0
+        }
+      },
+      "RTQkaXWDzJmgrhHHiLeMtm": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "Hide the sidebar to focus on your work",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [
+            "DtmPhe9bnXuto82KhxYeiV"
+          ],
+          "ix": -6,
+          "cd": 1716923282.175175,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716923282.175936,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 3056935470,
+            "v": "Work without any distractions by hiding your sidebar. Just drag the sidebar handle all the way to the left, or hit ⌘/",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "KkLQMzCu2C62aQNXJBLG2J": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "Get Things for your other devices",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [
+            "JY1EGXGGhQz552GRi4KieR"
+          ],
+          "ix": -80,
+          "cd": 1716923282.1816969,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716923282.1820102,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 2878320380,
+            "v": "You can get the app on your other devices, too. Things keeps everything in sync. ✨\n\niPad: culturedcode.com/things/ipad/appstore/\niPhone: culturedcode.com/things/iphone/appstore/\nVision: culturedcode.com/things/vision/appstore/",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "PteGzA1t8FwG8n4YLubrSU": {
+        "t": 0,
+        "e": "ChecklistItem3",
+        "p": {
+          "lt": false,
+          "cd": 1716923282.1719189,
+          "ts": [
+            "KyD6a4DstFagKsniCwX6WH"
+          ],
+          "sp": null,
+          "ss": 0,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          },
+          "md": 1716923282.172349,
+          "tt": "Bake in the oven for 10 minutes, then cool for 2 minutes",
+          "ix": 0
+        }
+      },
+      "CK9dARrf2ezbFvrVUUxkHE": {
+        "t": 0,
+        "e": "Tag4",
+        "p": {
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          },
+          "pn": [],
+          "ix": -141,
+          "sh": null,
+          "tt": "Home"
+        }
+      },
+      "KL3UrmiJYxHBDc3SH6bCP4": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 1,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "Meet Things for Mac",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [],
+          "ix": 0,
+          "cd": 1716923282.14975,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716923282.150604,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 2225055333,
+            "v": "This project shows you everything you need to know to hit the ground running. Don’t hesitate to play around in it – you can always create a new one from the Help menu.",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "79M3nU2UCQn8bwzUMMAyC5": {
+        "t": 0,
+        "e": "ChecklistItem3",
+        "p": {
+          "lt": false,
+          "cd": 1716923282.1625061,
+          "ts": [
+            "P6e4AUKB8MT6sE1cnhQ6JA"
+          ],
+          "sp": null,
+          "ss": 0,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          },
+          "md": 1716923282.1634359,
+          "tt": "At the bottom of the Notification Center, click the button to Edit Widgets",
+          "ix": -206
+        }
+      },
+      "yHSRia1kzq3T8upLPoYvp": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "Create a new to-do",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [
+            "WvJCDKLcp1GnBNqkHkzz5C"
+          ],
+          "ix": -328,
+          "cd": 1716923282.153126,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716923282.1537828,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 187300598,
+            "v": "Your turn – just hit ⌘N on your keyboard.",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "2RYXFbNbg9bHp2Cd6RxNMX": {
+        "t": 0,
+        "e": "ChecklistItem3",
+        "p": {
+          "lt": false,
+          "cd": 1716923282.162009,
+          "ts": [
+            "P6e4AUKB8MT6sE1cnhQ6JA"
+          ],
+          "sp": null,
+          "ss": 0,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          },
+          "md": 1716923282.1633391,
+          "tt": "In the top right corner of your screen, click the time to reveal your Notification Center",
+          "ix": -402
+        }
+      },
+      "2KsQFFnAr6sUF7AMi3xAzw": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "Set a reminder so you won’t forget",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [
+            "DtmPhe9bnXuto82KhxYeiV"
+          ],
+          "ix": -14,
+          "cd": 1716923282.1734071,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716923282.1740451,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 3027002228,
+            "v": "It’s a great habit to check your Today list every morning to see what’s on your plate. But for those to-dos you absolutely cannot miss, setting reminders will give you peace of mind.\n\nClick the calendar button below and type “Monday 3pm”.",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "N7pB7oSwdMcJqqsPTeFcF1": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "Create a new heading",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [
+            "WvJCDKLcp1GnBNqkHkzz5C"
+          ],
+          "ix": -35,
+          "cd": 1716923282.156038,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716923282.156647,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 1656892384,
+            "v": "Go to File → New Heading to create a heading, then drag this to-do under it.",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "3osSvJhzkrupn9HV3624zZ": {
+        "t": 0,
+        "e": "ChecklistItem3",
+        "p": {
+          "lt": false,
+          "cd": 1716923282.1716161,
+          "ts": [
+            "KyD6a4DstFagKsniCwX6WH"
+          ],
+          "sp": null,
+          "ss": 0,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          },
+          "md": 1716923282.1722679,
+          "tt": "Arrange small balls on a baking sheet and flatten them with a fork, making a criss-cross pattern",
+          "ix": -144
+        }
+      },
+      "35z4Dg15AE2GauTUPCKWzL": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "Sync your devices",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [
+            "RGPENmADnbD7oybFGv9bQG"
+          ],
+          "ix": 0,
+          "cd": 1716923282.1647639,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716923282.1656051,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 1159978229,
+            "v": "Things Cloud keeps your to-dos in sync across your Mac, iPad, iPhone, Watch, and Vision Pro. Go to Things → Settings (or Preferences) → Things Cloud to create a free account.\n\nEven if you only use one device, you should still create a Things Cloud account – this ensures your data is always safely backed up.",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "S3EL9fGdoyBqBFEJdeoBXw": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "Tag your to-dos",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [
+            "DtmPhe9bnXuto82KhxYeiV"
+          ],
+          "ix": -63,
+          "cd": 1716923282.1694751,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716923282.170146,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 906923305,
+            "v": "Tags allow you to customize your workflow in Things.\n\nFor example, you can…\n- Use tags for places like “Office” or “Home”.\n- Tag all your “Errands”.\n- Prioritize to-dos with an “Important” tag.\n- Tag the things you’re working on with “Kate”.\n- Or you can invent your own tags.\n\nTo add a tag, click the tag button below. To see all to-dos with a given tag, use Quick Find to search for it.",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      }
+    },
+    {
+      "HrFcxjJtBk7GDZyQ6Awc1H": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "ss": 3,
+          "md": 1716924441.217216,
+          "sp": 1716924441.217062
+        }
+      },
+      "WvJCDKLcp1GnBNqkHkzz5C": {
+        "t": 1,
+        "e": "Task6",
+        "p": {}
+      },
+      "KL3UrmiJYxHBDc3SH6bCP4": {
+        "t": 1,
+        "e": "Task6",
+        "p": {}
+      }
+    },
+    {
+      "KL3UrmiJYxHBDc3SH6bCP4": {
+        "t": 1,
+        "e": "Task6",
+        "p": {}
+      },
+      "WvJCDKLcp1GnBNqkHkzz5C": {
+        "t": 1,
+        "e": "Task6",
+        "p": {}
+      },
+      "mKdiod9bYadhXt3xqVGRf": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "new todo",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [
+            "WvJCDKLcp1GnBNqkHkzz5C"
+          ],
+          "ix": -250,
+          "cd": 1716924474.5262089,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716924477.5266309,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "t": 1,
+            "ch": 0,
+            "v": "",
+            "_t": "tx"
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      }
+    },
+    {
+      "KL3UrmiJYxHBDc3SH6bCP4": {
+        "t": 1,
+        "e": "Task6",
+        "p": {}
+      },
+      "yHSRia1kzq3T8upLPoYvp": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "ss": 3,
+          "md": 1716924503.1129611,
+          "sp": 1716924503.112803
+        }
+      },
+      "WvJCDKLcp1GnBNqkHkzz5C": {
+        "t": 1,
+        "e": "Task6",
+        "p": {}
+      }
+    },
+    {
+      "GmpiV4fNU9EB1MF1dj3DnW": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "tir": 1716854400,
+          "md": 1716924524.1124411,
+          "sr": 1716854400
+        }
+      }
+    },
+    {
+      "VoMahmMJAu7ry8k5WVgxjr": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "tir": 1717632000,
+          "md": 1716924580.8580101,
+          "st": 2,
+          "sr": 1717632000
+        }
+      }
+    },
+    {
+      "3p4vwJBGjb3eMzEcV74LMf": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "agr": [
+            "35JiX75ekL1wtNKUehY29s"
+          ],
+          "md": 1716924608.95979
+        }
+      },
+      "35JiX75ekL1wtNKUehY29s": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 2,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "new heading",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [],
+          "ix": -290,
+          "cd": 1716924608.957598,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716924612.3135681,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "t": 1,
+            "ch": 0,
+            "v": "",
+            "_t": "tx"
+          },
+          "icsd": null,
+          "pr": [
+            "KL3UrmiJYxHBDc3SH6bCP4"
+          ],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "WvJCDKLcp1GnBNqkHkzz5C": {
+        "t": 1,
+        "e": "Task6",
+        "p": {}
+      },
+      "KL3UrmiJYxHBDc3SH6bCP4": {
+        "t": 1,
+        "e": "Task6",
+        "p": {}
+      },
+      "23SzW3wvTE1ZiTui8VEqPL": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "agr": [
+            "35JiX75ekL1wtNKUehY29s"
+          ],
+          "md": 1716924608.959626
+        }
+      },
+      "23mwAoo4jkPWmJTBQhE3mw": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "agr": [
+            "35JiX75ekL1wtNKUehY29s"
+          ],
+          "md": 1716924608.9594831
+        }
+      },
+      "VoMahmMJAu7ry8k5WVgxjr": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "agr": [
+            "35JiX75ekL1wtNKUehY29s"
+          ],
+          "md": 1716924608.958616
+        }
+      }
+    },
+    {
+      "N7pB7oSwdMcJqqsPTeFcF1": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "agr": [
+            "35JiX75ekL1wtNKUehY29s"
+          ],
+          "md": 1716924635.7630072
+        }
+      },
+      "35JiX75ekL1wtNKUehY29s": {
+        "t": 1,
+        "e": "Task6",
+        "p": {}
+      },
+      "WvJCDKLcp1GnBNqkHkzz5C": {
+        "t": 1,
+        "e": "Task6",
+        "p": {}
+      },
+      "KL3UrmiJYxHBDc3SH6bCP4": {
+        "t": 1,
+        "e": "Task6",
+        "p": {}
+      }
+    },
+    {
+      "J8LL5aRCAAPaUTatj2EMTo": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 1,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "a new project",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [],
+          "ix": 0,
+          "cd": 1716924655.5565979,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716924664.147682,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "t": 1,
+            "ch": 0,
+            "v": "",
+            "_t": "tx"
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "KL3UrmiJYxHBDc3SH6bCP4": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "ix": -473
+        }
+      }
+    },
+    {
+      "JD8d67XxfJDrFKd3PPePCR": {
+        "t": 0,
+        "e": "Area3",
+        "p": {
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          },
+          "ix": 0,
+          "tg": [],
+          "tt": "work"
+        }
+      }
+    },
+    {
+      "J8LL5aRCAAPaUTatj2EMTo": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "md": 1716924707.5909519,
+          "ar": [
+            "JD8d67XxfJDrFKd3PPePCR"
+          ]
+        }
+      }
+    },
+    {
+      "23SzW3wvTE1ZiTui8VEqPL": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "ss": 3,
+          "md": 1716924744.6548471,
+          "sp": 1716924744.6546669
+        }
+      },
+      "GmpiV4fNU9EB1MF1dj3DnW": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "ss": 3,
+          "md": 1716924742.624759,
+          "sp": 1716924742.624577
+        }
+      },
+      "N7pB7oSwdMcJqqsPTeFcF1": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "ss": 3,
+          "md": 1716924743.2854319,
+          "sp": 1716924743.285255
+        }
+      },
+      "23mwAoo4jkPWmJTBQhE3mw": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "ss": 3,
+          "md": 1716924744.0846949,
+          "sp": 1716924744.0845308
+        }
+      },
+      "mKdiod9bYadhXt3xqVGRf": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "ss": 3,
+          "md": 1716924741.5802641,
+          "sp": 1716924741.5800951
+        }
+      },
+      "3p4vwJBGjb3eMzEcV74LMf": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "ss": 3,
+          "md": 1716924745.195204,
+          "sp": 1716924745.1950331
+        }
+      }
+    },
+    {
+      "VoMahmMJAu7ry8k5WVgxjr": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "ss": 3,
+          "md": 1716924749.196223,
+          "sp": 1716924749.196053
+        }
+      },
+      "35JiX75ekL1wtNKUehY29s": {
+        "t": 1,
+        "e": "Task6",
+        "p": {}
+      },
+      "KL3UrmiJYxHBDc3SH6bCP4": {
+        "t": 1,
+        "e": "Task6",
+        "p": {}
+      }
+    },
+    {
+      "P6e4AUKB8MT6sE1cnhQ6JA": {
+        "t": 1,
+        "e": "Task6",
+        "p": {}
+      },
+      "2RYXFbNbg9bHp2Cd6RxNMX": {
+        "t": 1,
+        "e": "ChecklistItem3",
+        "p": {
+          "ss": 3,
+          "md": 1716924785.0139608,
+          "sp": 1716924785.0138822
+        }
+      }
+    },
+    {
+      "P6e4AUKB8MT6sE1cnhQ6JA": {
+        "t": 1,
+        "e": "Task6",
+        "p": {}
+      },
+      "7XKML3WMj6Gr8tbpTaXTtM": {
+        "t": 2,
+        "e": "ChecklistItem3",
+        "p": {}
+      }
+    },
+    {
+      "P6e4AUKB8MT6sE1cnhQ6JA": {
+        "t": 1,
+        "e": "Task6",
+        "p": {}
+      },
+      "79M3nU2UCQn8bwzUMMAyC5": {
+        "t": 1,
+        "e": "ChecklistItem3",
+        "p": {
+          "ss": 2,
+          "md": 1716924826.747978,
+          "sp": 1716924826.7478991
+        }
+      }
+    },
+    {
+      "2sUfg8A5SmUNzzaYe1tY81": {
+        "t": 1,
+        "e": "ChecklistItem3",
+        "p": {
+          "ix": -91
+        }
+      },
+      "P6e4AUKB8MT6sE1cnhQ6JA": {
+        "t": 1,
+        "e": "Task6",
+        "p": {}
+      },
+      "KBavYo7NcqnNEfHLpST4ts": {
+        "t": 0,
+        "e": "ChecklistItem3",
+        "p": {
+          "lt": false,
+          "cd": 1716924843.6140671,
+          "ts": [
+            "P6e4AUKB8MT6sE1cnhQ6JA"
+          ],
+          "sp": null,
+          "ss": 0,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          },
+          "tt": "new checklist item",
+          "md": 1716924853.648577,
+          "ix": 0
+        }
+      }
+    },
+    {
+      "2sUfg8A5SmUNzzaYe1tY81": {
+        "t": 1,
+        "e": "ChecklistItem3",
+        "p": {
+          "tt": "Right-click to edit which list it shows",
+          "md": 1716924873.019593
+        }
+      }
+    },
+    {
+      "5HZUmBK4QJp3uaKaWpcDiB": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 0,
+          "ar": [],
+          "tt": "quick capture",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [],
+          "ix": -406,
+          "cd": 1716924900.266896,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716924926.177799,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 0,
+            "v": "",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      }
+    },
+    {
+      "S3EL9fGdoyBqBFEJdeoBXw": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "md": 1716924961.1334009,
+          "tg": [
+            "CK9dARrf2ezbFvrVUUxkHE"
+          ]
+        }
+      }
+    },
+    {
+      "S3EL9fGdoyBqBFEJdeoBXw": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "md": 1716924987.380934,
+          "tg": [
+            "CK9dARrf2ezbFvrVUUxkHE",
+            "TrFfCEgNeRTRJoNhnVfktM"
+          ]
+        }
+      },
+      "TrFfCEgNeRTRJoNhnVfktM": {
+        "t": 0,
+        "e": "Tag4",
+        "p": {
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          },
+          "pn": [],
+          "ix": -973,
+          "sh": null,
+          "tt": "new tag"
+        }
+      }
+    },
+    {
+      "CK9dARrf2ezbFvrVUUxkHE": {
+        "t": 2,
+        "e": "Tag4",
+        "p": {}
+      },
+      "S3EL9fGdoyBqBFEJdeoBXw": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "tg": [
+            "TrFfCEgNeRTRJoNhnVfktM"
+          ]
+        }
+      }
+    },
+    {
+      "Xzj8M5kzNSXWaHportC44E": {
+        "t": 1,
+        "e": "ChecklistItem3",
+        "p": {
+          "ss": 3,
+          "md": 1716925021.1783609,
+          "sp": 1716925021.178283
+        }
+      },
+      "KyD6a4DstFagKsniCwX6WH": {
+        "t": 1,
+        "e": "Task6",
+        "p": {}
+      },
+      "3osSvJhzkrupn9HV3624zZ": {
+        "t": 1,
+        "e": "ChecklistItem3",
+        "p": {
+          "ss": 3,
+          "md": 1716925021.52931,
+          "sp": 1716925021.529228
+        }
+      }
+    },
+    {
+      "2KsQFFnAr6sUF7AMi3xAzw": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "tir": 1716854400,
+          "md": 1716925081.7896481,
+          "ato": 79200,
+          "sr": 1716854400
+        }
+      }
+    },
+    {
+      "KNupt7QcSkyC75e9HE8DJS": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "ti": -568,
+          "tir": 1716854400,
+          "sb": 1,
+          "md": 1716925103.635216,
+          "sr": 1716854400
+        }
+      }
+    },
+    {
+      "Nz9RqrxpAnj212hFBSPTW2": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 1,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "Convert a to-do into a project",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [],
+          "ix": 0,
+          "cd": 1716925135.7678719,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716925135.7684669,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 1546086623,
+            "v": "Sometimes you might create a to-do, but realize later that it’s actually a more complex project. No problem! In the toolbar below, click ••• and choose Convert to Project.\n\nThese checklist items will become to-dos inside your new project:",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "CcvixuuBsK69WMZNUcMS4t": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "To-do #1",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [],
+          "ix": -406,
+          "cd": 1716925135.769227,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716925135.7696519,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 0,
+            "v": "",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [
+            "Nz9RqrxpAnj212hFBSPTW2"
+          ],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "KL3UrmiJYxHBDc3SH6bCP4": {
+        "t": 1,
+        "e": "Task6",
+        "p": {}
+      },
+      "ycRqkt9wwGJPrqyVmd1AU": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "To-do #2",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [],
+          "ix": 0,
+          "cd": 1716925135.769948,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716925135.7703881,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 0,
+            "v": "",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [
+            "Nz9RqrxpAnj212hFBSPTW2"
+          ],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "N6hQSHomizTrbj9sH622Nc": {
+        "t": 2,
+        "e": "ChecklistItem3",
+        "p": {}
+      },
+      "DtmPhe9bnXuto82KhxYeiV": {
+        "t": 1,
+        "e": "Task6",
+        "p": {}
+      },
+      "MgP1KNFPb3E5zdkKKMmGGK": {
+        "t": 2,
+        "e": "ChecklistItem3",
+        "p": {}
+      },
+      "7yJafyWRurCsUBU31CHtjh": {
+        "t": 2,
+        "e": "Task6",
+        "p": {}
+      }
+    },
+    {
+      "S34LfA7vyEn6y36pW547XE": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": 1716854400,
+          "dds": null,
+          "rt": [
+            "Xhfo9KHKJ3J2Ff2PgkNyY8"
+          ],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 2,
+          "ar": [],
+          "tt": "Make your to-dos repeat",
+          "do": 0,
+          "lai": null,
+          "tir": 1716854400,
+          "tg": [],
+          "agr": [
+            "DtmPhe9bnXuto82KhxYeiV"
+          ],
+          "ix": -1,
+          "cd": 1716847200,
+          "lt": true,
+          "icc": 0,
+          "ti": 0,
+          "md": null,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 2467039566,
+            "v": "There are some things you do every few days, weeks, or months. Create a repeating to-do and Things will automatically remind you on the right day. It’s a great time-saver, and makes you consistent.\n\nTo create one, go to File → New Repeating To-Do.",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "Xhfo9KHKJ3J2Ff2PgkNyY8": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 2,
+          "ar": [],
+          "tt": "Make your to-dos repeat",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [
+            "DtmPhe9bnXuto82KhxYeiV"
+          ],
+          "ix": -1,
+          "cd": 1716925167.128088,
+          "lt": false,
+          "icc": 1,
+          "ti": 0,
+          "md": 1716925171.6321421,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 2467039566,
+            "v": "There are some things you do every few days, weeks, or months. Create a repeating to-do and Things will automatically remind you on the right day. It’s a great time-saver, and makes you consistent.\n\nTo create one, go to File → New Repeating To-Do.",
+            "t": 1
+          },
+          "icsd": 1716940800,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": {
+            "ia": 1716854400,
+            "rrv": 4,
+            "tp": 1,
+            "of": [
+              {
+                "wd": 2
+              }
+            ],
+            "fu": 256,
+            "sr": 1716854400,
+            "fa": 1,
+            "rc": 0,
+            "ts": 0,
+            "ed": 64092211200
+          },
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "V1FGMRfV4dcZUx7Bsa8kBZ": {
+        "t": 2,
+        "e": "Task6",
+        "p": {}
+      },
+      "KL3UrmiJYxHBDc3SH6bCP4": {
+        "t": 1,
+        "e": "Task6",
+        "p": {}
+      },
+      "DtmPhe9bnXuto82KhxYeiV": {
+        "t": 1,
+        "e": "Task6",
+        "p": {}
+      }
+    },
+    {
+      "DtmPhe9bnXuto82KhxYeiV": {
+        "t": 1,
+        "e": "Task6",
+        "p": {}
+      },
+      "KmQ9unJJ6hqdbXJAGEJ2Vf": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "ix": -5
+        }
+      },
+      "KL3UrmiJYxHBDc3SH6bCP4": {
+        "t": 1,
+        "e": "Task6",
+        "p": {}
+      },
+      "TmafuceFKfynX8nWXafL4U": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 1,
+          "ar": [],
+          "tt": "Open multiple windows",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [
+            "DtmPhe9bnXuto82KhxYeiV"
+          ],
+          "ix": -3,
+          "cd": 1716925218.0020761,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716925218.0020761,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 134105047,
+            "v": "As you organize your to-dos, it can be very helpful to have multiple lists open side by side. Right-click any list in the sidebar to open it in a new window.",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      }
+    },
+    {
+      "8L7pqXZ2cYdWFhCVWLGomM": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "nt": {
+            "t": 2,
+            "ps": [
+              {
+                "r": "So,ething\n\n",
+                "p": 534,
+                "l": 0,
+                "ch": 3654505404
+              }
+            ],
+            "_t": "tx"
+          },
+          "md": 1716925295.334332
+        }
+      }
+    },
+    {
+      "KmQ9unJJ6hqdbXJAGEJ2Vf": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "ti": -575,
+          "tir": 1718323200,
+          "dd": 1718323200,
+          "md": 1716925320.0652308
+        }
+      }
+    },
+    {
+      "DtmPhe9bnXuto82KhxYeiV": {
+        "t": 1,
+        "e": "Task6",
+        "p": {}
+      },
+      "RTQkaXWDzJmgrhHHiLeMtm": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "ss": 2,
+          "md": 1716925344.7479229,
+          "sp": 1716925344.7476759
+        }
+      },
+      "KL3UrmiJYxHBDc3SH6bCP4": {
+        "t": 1,
+        "e": "Task6",
+        "p": {}
+      }
+    },
+    {
+      "8JdXTU5vsmkkfr7bJadBbG": {
+        "t": 0,
+        "e": "ChecklistItem3",
+        "p": {
+          "lt": false,
+          "cd": 1716925357.3245401,
+          "ts": [
+            "Bn9TL7SnPTgZ3evdzvpQC3"
+          ],
+          "sp": null,
+          "ss": 0,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          },
+          "tt": "Arrange small balls on a baking sheet and flatten them with a fork, making a criss-cross pattern",
+          "md": 1716925357.3294129,
+          "ix": -144
+        }
+      },
+      "35PzJD8c3DxypCqky7sKjt": {
+        "t": 0,
+        "e": "ChecklistItem3",
+        "p": {
+          "lt": false,
+          "cd": 1716925357.3245401,
+          "ts": [
+            "Bn9TL7SnPTgZ3evdzvpQC3"
+          ],
+          "sp": null,
+          "ss": 0,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          },
+          "tt": "Mix 1 cup of peanut butter, 1 cup of white sugar, and 1 egg with an electric mixer until it’s smooth and creamy",
+          "md": 1716925357.329556,
+          "ix": -397
+        }
+      },
+      "UeNiwVn9g7CHScd6vyGfR4": {
+        "t": 0,
+        "e": "ChecklistItem3",
+        "p": {
+          "lt": false,
+          "cd": 1716925357.3245401,
+          "ts": [
+            "Bn9TL7SnPTgZ3evdzvpQC3"
+          ],
+          "sp": null,
+          "ss": 0,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          },
+          "tt": "Bake in the oven for 10 minutes, then cool for 2 minutes",
+          "md": 1716925357.3245401,
+          "ix": 0
+        }
+      },
+      "2KsQFFnAr6sUF7AMi3xAzw": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "ti": -342
+        }
+      },
+      "KL3UrmiJYxHBDc3SH6bCP4": {
+        "t": 1,
+        "e": "Task6",
+        "p": {}
+      },
+      "DtmPhe9bnXuto82KhxYeiV": {
+        "t": 1,
+        "e": "Task6",
+        "p": {}
+      },
+      "JGXwhtY5umJbJ45GcaHiHf": {
+        "t": 0,
+        "e": "ChecklistItem3",
+        "p": {
+          "lt": false,
+          "cd": 1716925357.3245401,
+          "ts": [
+            "Bn9TL7SnPTgZ3evdzvpQC3"
+          ],
+          "sp": null,
+          "ss": 0,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          },
+          "tt": "Preheat the oven to 350ºF (175ºC)",
+          "md": 1716925357.3245401,
+          "ix": -616
+        }
+      },
+      "KyD6a4DstFagKsniCwX6WH": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "rt": [
+            "Bn9TL7SnPTgZ3evdzvpQC3"
+          ],
+          "sr": 1716854400,
+          "ti": -1127,
+          "tir": 1716854400,
+          "md": 1716925367.3124251,
+          "st": 2,
+          "ix": -43
+        }
+      },
+      "Bn9TL7SnPTgZ3evdzvpQC3": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 2,
+          "ar": [],
+          "tt": "Go step by step with checklists",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [
+            "DtmPhe9bnXuto82KhxYeiV"
+          ],
+          "ix": -22,
+          "cd": 1716925357.3245401,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716925367.3117599,
+          "dd": null,
+          "ato": 43200,
+          "nt": {
+            "_t": "tx",
+            "ch": 724580952,
+            "v": "Break a to-do down into smaller steps by adding a checklist. You could use it to track a daily routine, pack a suitcase, make a grocery list, and so on.\n\nAnd who knew it was so easy to make peanut butter cookies? 😃",
+            "t": 1
+          },
+          "icsd": 1716940800,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": {
+            "ia": 1716854400,
+            "rrv": 4,
+            "tp": 1,
+            "of": [
+              {
+                "dy": 27
+              }
+            ],
+            "fu": 8,
+            "sr": 1716854400,
+            "fa": 2,
+            "rc": 0,
+            "ts": 0,
+            "ed": 64092211200
+          },
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      }
+    },
+    {
+      "NwvHpykQrmRTsS417mePd": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "st": 2,
+          "md": 1716925404.8401041
+        }
+      }
+    },
+    {
+      "Y2bybdPvcRa1dNEgo8TQ62": {
+        "t": 2,
+        "e": "Task6",
+        "p": {}
+      },
+      "5KGXXwdLRDC7TiKB3KbBdU": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 2,
+          "ar": [],
+          "tt": "Add to-dos from anywhere",
+          "do": 0,
+          "lai": null,
+          "tir": 1716940800,
+          "tg": [],
+          "agr": [
+            "DtmPhe9bnXuto82KhxYeiV"
+          ],
+          "ix": -361,
+          "cd": 1716925425.831213,
+          "lt": false,
+          "icc": 0,
+          "ti": 0,
+          "md": 1716925450.6432319,
+          "dd": null,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 3030284080,
+            "v": "No matter which app you’re in, you can use Quick Entry to add to-dos to Things. Try it now by hitting Ctrl+Space.",
+            "t": 1
+          },
+          "icsd": 1716940800,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": {
+            "ia": 1716940800,
+            "rrv": 4,
+            "tp": 0,
+            "of": [
+              {
+                "wd": 1
+              },
+              {
+                "wd": 3
+              },
+              {
+                "wd": 5
+              }
+            ],
+            "fu": 256,
+            "sr": 1716854400,
+            "fa": 1,
+            "rc": 0,
+            "ts": 0,
+            "ed": 64092211200
+          },
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "KL3UrmiJYxHBDc3SH6bCP4": {
+        "t": 1,
+        "e": "Task6",
+        "p": {}
+      },
+      "DtmPhe9bnXuto82KhxYeiV": {
+        "t": 1,
+        "e": "Task6",
+        "p": {}
+      }
+    },
+    {
+      "Lu1TnPynhZq2mroFgUwKWu": {
+        "t": 2,
+        "e": "Task6",
+        "p": {}
+      },
+      "RGPENmADnbD7oybFGv9bQG": {
+        "t": 1,
+        "e": "Task6",
+        "p": {}
+      },
+      "GCQMPqrteZEFLN5f71gNou": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": null,
+          "dds": null,
+          "rt": [],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 2,
+          "ar": [],
+          "tt": "Show your calendar events",
+          "do": 0,
+          "lai": null,
+          "tir": null,
+          "tg": [],
+          "agr": [
+            "RGPENmADnbD7oybFGv9bQG"
+          ],
+          "ix": -634,
+          "cd": 1716925472.767396,
+          "lt": false,
+          "icc": 1,
+          "ti": 0,
+          "md": 1716925482.024904,
+          "dd": 64092211200,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 3688552736,
+            "v": "You can connect your calendars to Things and see all of your events and to-dos together. Go to Things → Settings (or Preferences) → Calendar to turn it on.",
+            "t": 1
+          },
+          "icsd": 1716940800,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": {
+            "ia": 1716854400,
+            "rrv": 4,
+            "tp": 1,
+            "of": [
+              {
+                "dy": 27
+              }
+            ],
+            "fu": 8,
+            "sr": 1716422400,
+            "fa": 1,
+            "rc": 0,
+            "ts": -5,
+            "ed": 64092211200
+          },
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      },
+      "KL3UrmiJYxHBDc3SH6bCP4": {
+        "t": 1,
+        "e": "Task6",
+        "p": {}
+      },
+      "Nutasrgswn6SCa6gV8HDSx": {
+        "t": 0,
+        "e": "Task6",
+        "p": {
+          "tp": 0,
+          "sr": 1716422400,
+          "dds": null,
+          "rt": [
+            "GCQMPqrteZEFLN5f71gNou"
+          ],
+          "rmd": null,
+          "ss": 0,
+          "tr": false,
+          "dl": [],
+          "icp": false,
+          "st": 2,
+          "ar": [],
+          "tt": "Show your calendar events",
+          "do": 0,
+          "lai": null,
+          "tir": 1716422400,
+          "tg": [],
+          "agr": [
+            "RGPENmADnbD7oybFGv9bQG"
+          ],
+          "ix": -634,
+          "cd": 1716415200,
+          "lt": true,
+          "icc": 0,
+          "ti": 0,
+          "md": null,
+          "dd": 1716854400,
+          "ato": null,
+          "nt": {
+            "_t": "tx",
+            "ch": 3688552736,
+            "v": "You can connect your calendars to Things and see all of your events and to-dos together. Go to Things → Settings (or Preferences) → Calendar to turn it on.",
+            "t": 1
+          },
+          "icsd": null,
+          "pr": [],
+          "rp": null,
+          "acrd": null,
+          "sp": null,
+          "sb": 0,
+          "rr": null,
+          "xx": {
+            "sn": {},
+            "_t": "oo"
+          }
+        }
+      }
+    },
+    {
+      "X4iDwdyczTadnxRJTrdACQ": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "agr": [],
+          "md": 1716925562.3049979
+        }
+      },
+      "KL3UrmiJYxHBDc3SH6bCP4": {
+        "t": 1,
+        "e": "Task6",
+        "p": {}
+      },
+      "JY1EGXGGhQz552GRi4KieR": {
+        "t": 1,
+        "e": "Task6",
+        "p": {}
+      }
+    },
+    {
+      "ycRqkt9wwGJPrqyVmd1AU": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "ss": 3,
+          "md": 1716925587.0350409,
+          "sp": 1716925587.034801
+        }
+      },
+      "CcvixuuBsK69WMZNUcMS4t": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "ss": 3,
+          "md": 1716925586.4690399,
+          "sp": 1716925586.468904
+        }
+      }
+    },
+    {
+      "Nz9RqrxpAnj212hFBSPTW2": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "ss": 3,
+          "md": 1716925599.7723069,
+          "sp": 1716925599.771481
+        }
+      }
+    },
+    {
+      "J8LL5aRCAAPaUTatj2EMTo": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "ss": 2,
+          "md": 1716925610.4390411,
+          "sp": 1716925610.4382601
+        }
+      }
+    },
+    {
+      "JD8d67XxfJDrFKd3PPePCR": {
+        "t": 1,
+        "e": "Area3",
+        "p": {
+          "tt": "work and other"
+        }
+      }
+    },
+    {
+      "JD8d67XxfJDrFKd3PPePCR": {
+        "t": 2,
+        "e": "Area3",
+        "p": {}
+      },
+      "J8LL5aRCAAPaUTatj2EMTo": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "ar": []
+        }
+      }
+    },
+    {
+      "KL3UrmiJYxHBDc3SH6bCP4": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "tr": true,
+          "md": 1716925665.8574901
+        }
+      }
+    },
+    {
+      "5HZUmBK4QJp3uaKaWpcDiB": {
+        "t": 1,
+        "e": "Task6",
+        "p": {
+          "st": 1,
+          "md": 1716925686.669383,
+          "ix": -759
+        }
+      }
+    }
+  ]
+}
