@@ -50,8 +50,8 @@ TaskBase = Struct.new(:id, :events) do
 
   private
 
-  def org_header
-    header = "* #{todo_state} #{title}"
+  def org_header(level: 1)
+    header = "#{"*" * level} #{todo_state} #{title}"
     header << " #{org_tags}" if org_tags
     header << "\n"
     header

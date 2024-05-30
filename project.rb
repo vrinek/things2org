@@ -20,7 +20,9 @@ class Project < TaskBase
     OrgFileTitle.new(title).to_org +
       things_id_property +
       note.to_org +
-      tasks_org(tasks)
+      "\n" +
+      tasks_org(direct_tasks) +
+      headers.sort_by(&:index).map(&:to_org).join("\n")
   end
 
   private
@@ -31,14 +33,19 @@ class Project < TaskBase
     Area::STORE.find { |area| area.id == area_id }&.title
   end
 
-  def tasks
+  def direct_tasks
     Task::STORE.select { |task| task.project_id == id }
+               .reject { |task| !!task.header_id }
   end
 
   def tasks_org(tasks)
     org = tasks.sort_by(&:index).map(&:to_org).join("\n")
     org = "\n" + org unless org.blank?
     org
+  end
+
+  def headers
+    Header::STORE.select { |header| header.project_id == id }
   end
 end
 

@@ -4,9 +4,281 @@
 This project shows you everything you need to know to hit the ground running. Don't hesitate to play around in it -- you can always create a new one from the Help menu.
 
 * Learn the basics
+
 ** TODO Double-click this to-do
 :PROPERTIES:
 :things_id: HrFcxjJtBk7GDZyQ6Awc1H
 :END:
 
 You're looking at a to-do! Complete it by clicking the checkbox on the left. Completed to-dos are collected at the bottom of your project.
+
+** TODO Create a new to-do
+:PROPERTIES:
+:things_id: yHSRia1kzq3T8upLPoYvp
+:END:
+
+Your turn -- just hit ⌘N on your keyboard.
+
+** TODO Add this to-do to your Today list
+:PROPERTIES:
+:things_id: GmpiV4fNU9EB1MF1dj3DnW
+:END:
+
+Click the calendar button below to plan when you'll do this to-do. Choose Today.
+
+** TODO Plan this to-do for later
+:PROPERTIES:
+:things_id: VoMahmMJAu7ry8k5WVgxjr
+:END:
+
+Click the calendar button again, but this time, choose a date in the future. It will automatically appear in your Today list when the date comes.
+
+Inside projects, to-dos that are scheduled for a later date will be shown at the bottom.
+
+** TODO Create a new heading
+:PROPERTIES:
+:things_id: N7pB7oSwdMcJqqsPTeFcF1
+:END:
+
+Go to File → New Heading to create a heading, then drag this to-do under it.
+
+** TODO Create a project
+:PROPERTIES:
+:things_id: 23mwAoo4jkPWmJTBQhE3mw
+:END:
+
+On to bigger things! At the bottom of the sidebar, click "+ New List" to add a project of your own.
+
+** TODO Organize with areas
+:PROPERTIES:
+:things_id: 23SzW3wvTE1ZiTui8VEqPL
+:END:
+
+Create an area for each sphere of your life, such as Work, Family, Finance, and so on. You can drop your projects into them to stay organized.
+
+At the bottom of the sidebar, click "+ New List" to create one.
+
+Unlike projects, areas are never completed.
+
+** TODO You’re done!
+:PROPERTIES:
+:things_id: 3p4vwJBGjb3eMzEcV74LMf
+:END:
+
+That's all you really need to know. Feel free to start adding your own projects and to-dos.
+
+You can come back to this project later to learn the advanced features below. When you're done with the project, click the progress ring at the top to mark it complete.
+
+We hope you'll enjoy using Things!
+
+* Tune your setup
+
+** TODO Show your calendar events
+:PROPERTIES:
+:things_id: Lu1TnPynhZq2mroFgUwKWu
+:END:
+
+You can connect your calendars to Things and see all of your events and to-dos together. Go to Things → Settings (or Preferences) → Calendar to turn it on.
+
+** TODO Add some widgets
+:PROPERTIES:
+:things_id: P6e4AUKB8MT6sE1cnhQ6JA
+:END:
+
+Widgets let you quickly access your lists from your Mac's desktop (macOS 14 or later), or the Notification Center on the right side of your screen.
+
+You can add as many widgets as you like. Here's how:
+
+- [ ] In the top right corner of your screen, click the time to reveal the Notification Center
+- [ ] At the bottom of the Notification Center, click the buttor no Edit Widgets
+- [ ] Search for Things and add a widget (make sure you're adding a widget for the Mac version of Things, not the iPhone version)
+- [ ] Right-click the widget to edit which list it shows
+
+** TODO Sync your devices
+:PROPERTIES:
+:things_id: 35z4Dg15AE2GauTUPCKWzL
+:END:
+
+Things Cloud keeps your to-dos in sync across your Mac, iPad, iPhone, Watch, and Vision Pro. Go to Things → Settings (or Preferences) → Things Cloud to create a free account.
+
+Even if you only use one device, you should still create a Things Cloud account -- this ensures your data is always safely backed up.
+
+* Boost your productivity
+
+** TODO Add to-dos from anywhere
+:PROPERTIES:
+:things_id: Y2bybdPvcRa1dNEgo8TQ62
+:END:
+
+No matter which app you're in, you can use Quick Entry to add to-dos to Things. Try it now by hitting Ctrl+Space.
+
+** TODO Link to emails, files, and web pages
+:PROPERTIES:
+:things_id: 4UZgCxuw7arXPY2gp4tUrV
+:END:
+
+You can link to emails, files, and web pages by simply dragging them into the notes of a to-do.
+
+Even better, you can use Quick Entry's Autofill feature to do it automatically. To enable Autofill, go to Things → Settings (or Preferences) → Quick Entry.
+
+** TODO Search and navigate with Quick Find
+:PROPERTIES:
+:things_id: NwvHpykQrmRTsS417mePd
+:END:
+
+Finding things is super easy with Quick Find. Collapse this to-do, and then just start typing -- the name of a list, project, to-do, or tag -- and be taken there instantly.
+
+** TODO Tag your to-dos
+:PROPERTIES:
+:things_id: S3EL9fGdoyBqBFEJdeoBXw
+:END:
+
+Tags allow you to customize your workflow in Things.
+
+For example, you can...
+- Use tags for places like "Office" or "Home".
+- Tag all your "Errands".
+- Prioritize to-dos with an "Important" tag.
+- Tag the things you're working on with "Kate".
+- Or you can invent your own tags.
+
+To add a tag, click the tag button below. To see all to-dos with a given tag, use Quick Find to search for it.
+
+** TODO Go step by step with checklists
+:PROPERTIES:
+:things_id: KyD6a4DstFagKsniCwX6WH
+:END:
+
+Break a to-do down into smaller steps by adding a checklist. You could use it to track a daily routine, pack a suitcase, make a grocery list, and so on.
+
+And who knew it was so easy to make peanut butter cookies? 😃
+
+- [ ] Preheat the oven to 350F (175C)
+- [ ] Mix 1 cup of peanut butter, 1 cup of white sugar, and 1 egg with an electric mixer until it's smooth and creamy
+- [ ] Arrange small balls on a baking sheet and flatten them with a form, making a criss-cross pattern
+- [ ] Bake in the oven for 10 minutes, then cool for 2 minutes
+
+** TODO Set a reminder so you won’t forget
+:PROPERTIES:
+:things_id: 2KsQFFnAr6sUF7AMi3xAzw
+:END:
+
+It's a great habit to check your Today list every morning to see what's on your plate. But for those to-dos you absolutely cannot miss, setting reminders will give you peace of mind.
+
+Click the calendar button below and type "Monday 3pm".
+
+** TODO Plan your evening
+:PROPERTIES:
+:things_id: KNupt7QcSkyC75e9HE8DJS
+:END:
+
+As you use Things to manage both your work and personal life, you'll find it convenient to set some of your to-dos aside for later in the day. Click the calendar button below and choose "This Evening".
+
+** TODO Hide the sidebar to focus on your work
+:PROPERTIES:
+:things_id: RTQkaXWDzJmgrhHHiLeMtm
+:END:
+
+Work without any distractions by hiding your sidebar. Just drag the sidebar handle all the way to the left, or hit ⌘/
+
+** TODO Open multiple windows
+:PROPERTIES:
+:things_id: KmQ9unJJ6hqdbXJAGEJ2Vf
+:END:
+
+As you organize your to-dos, it can be very helpful to have multiple lists open side by side. Right-click any list in the sidebar to open it in a new window.
+
+** TODO Convert a to-do into a project
+:PROPERTIES:
+:things_id: 7yJafyWRurCsUBU31CHtjh
+:END:
+
+Sometimes you might create a to-do, but realize later that it's actually a more complex project. No problem! In the toolbar below, click ••• and choose Convert to Project.
+
+These checklist items will become to-dos inside your new project:
+
+- [ ] To-do #1
+- [ ] To-do #2
+
+** TODO Make your to-dos repeat
+:PROPERTIES:
+:things_id: V1FGMRfV4dcZUx7Bsa8kBZ
+:END:
+
+There are some things you do every few days, weeks, or months. Create a repeating to-do and Things will automatically remind you on the right day. It's a great time-saver, and makes you consistent.
+
+To create one, go to File → New Repeating To-Do.
+
+** TODO Learn some keyboard shortcuts
+:PROPERTIES:
+:things_id: FDpUvUsFZoXyRMm9UWn4FY
+:END:
+
+To explore all of Things' shortcuts, go to Help → Keyboard Shortcuts. Here are the most important ones:
+
+⌘S: choose when to start a to-do
+⌘T: mark a to-do as Today
+⌘⇧M: move a to-do to another list
+
+⌘↑: move a to-do up
+⌘↓: move a to-do down
+
+** TODO Structure your notes with Markdown
+:PROPERTIES:
+:things_id: 8L7pqXZ2cYdWFhCVWLGomM
+:END:
+
+Things supports Markdown for adding structure and style to your notes.
+
+If you don't know Markdown, here's how it works. To emphasize a word, simply surround it with asterisks, like so: /emphasized/. As you can see, Things detects this and displays the word in italics. If you remove those asterisks, it will go back to normal.
+
+Here are a few more examples:
+- Use two asterisks to make text *bold*
+- Use colons to =highlight text=
+- Insert "#" at the beginning of a line to make a heading, like so:
+
+*** This is a heading
+
+--------------
+
+Markdown is a bit quirky, but it's great for quickly styling your text while you type. You can also use keyboard shortcuts, which you can find in Edit → Markdown.
+
+To learn more, check out our Markdown Guide: culturedcode.com/things/help/markdown/
+
+* Before you go…
+
+** TODO Stay in the loop
+:PROPERTIES:
+:things_id: X4iDwdyczTadnxRJTrdACQ
+:END:
+
+Be the first to know about the latest features and developments. Follow us on social networks or sign up for our newsletter: culturedcode.com/follow/
+
+** TODO Rate the app
+:PROPERTIES:
+:things_id: Kk5hFdAiuqDMJQscZWrEyD
+:END:
+
+If you like Things, please rate it in the App Store -- this makes a huge difference!
+
+culturedcode.com/things/mac/appstore/
+
+** TODO Get Things for your other devices
+:PROPERTIES:
+:things_id: KkLQMzCu2C62aQNXJBLG2J
+:END:
+
+You can get the app on your other devices, too. Things keeps everything in sync. ✨
+
+iPad: culturedcode.com/things/ipad/appstore/
+iPhone: culturedcode.com/things/iphone/appstore/
+Vision: culturedcode.com/things/vision/appstore/
+
+** TODO Any questions? We’re here to help!
+:PROPERTIES:
+:things_id: Lmb7DywhXhFLxBCYPUkXiz
+:END:
+
+If you have any questions, we have a great collection of support articles on our website. You can also send us a message and we'll be glad to help!
+
+culturedcode.com/things/support/

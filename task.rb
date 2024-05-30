@@ -4,8 +4,8 @@ require_relative "note"
 require_relative "header"
 
 class Task < TaskBase
-  def to_org
-    org_header + org_timings + org_properties + note.to_org
+  def to_org(level: 1)
+    org_header(level:) + org_timings + org_properties + note.to_org
   end
 
   def project
@@ -27,8 +27,6 @@ class Task < TaskBase
   def project_id
     last_event_prop("pr")&.first || header&.project_id
   end
-
-  private
 
   def header_id
     last_event_prop("agr")&.first
