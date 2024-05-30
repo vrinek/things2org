@@ -38,11 +38,7 @@ class SampleProjectTest < Minitest::Test
   end
 
   def test_make_extra
-    skip "TODO"
-
-    assert_equal <<~ORG, @things_org.make_extra("meet-things-for-mac.org")
-      #+title: Meet Things for Mac
-      #+PROPERTY: things_id KL3UrmiJYxHBDc3SH6bCP4
-    ORG
+    assert_equal File.read("./tests/meet-things-for-mac.0.org"),
+                 @things_org.make_extra("meet-things-for-mac.org")
   end
 end

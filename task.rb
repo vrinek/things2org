@@ -33,10 +33,6 @@ class Task < TaskBase
   def header_id
     last_event_prop("agr")&.first
   end
-
-  def note
-    Note.new(events.map { |ev| ev.payload.dig("p", "nt") }.compact)
-  end
 end
 
 Task::STORE = []

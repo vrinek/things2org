@@ -10,6 +10,7 @@ require_relative "task"
 require_relative "header"
 require_relative "project"
 require_relative "item_json_merger"
+require_relative "org_file_title"
 
 class ThingsOrg
   def initialize(items_json, at: nil)
@@ -55,9 +56,7 @@ class ThingsOrg
       things_id = area.id
       title = area.title
     elsif project = projects.find { |project| project.filename == filename }
-      tasks_org = tasks_org(tasks.select { |t| t.project_id == project.id })
-      things_id = project.id
-      title = project.title
+      return project.to_org
     end
 
     things_id_property = <<~ORG
@@ -76,9 +75,7 @@ class ThingsOrg
   end
 
   def org_file_title(title)
-    <<~ORG
-      #+title: #{title}
-    ORG
+    OrgFileTitle.new(title).to_org
   end
 
   def items

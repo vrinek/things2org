@@ -128,4 +128,8 @@ TaskBase = Struct.new(:id, :events) do
       .reject(&:blank?)
       .last
   end
+
+  def note
+    Note.new(events.map { |ev| ev.payload.dig("p", "nt") }.compact)
+  end
 end

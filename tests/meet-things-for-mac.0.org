@@ -1,0 +1,12 @@
+#+title: Meet Things for Mac
+#+PROPERTY: things_id KL3UrmiJYxHBDc3SH6bCP4
+
+This project shows you everything you need to know to hit the ground running. Don't hesitate to play around in it -- you can always create a new one from the Help menu.
+
+* Learn the basics
+** TODO Double-click this to-do
+:PROPERTIES:
+:things_id: HrFcxjJtBk7GDZyQ6Awc1H
+:END:
+
+You're looking at a to-do! Complete it by clicking the checkbox on the left. Completed to-dos are collected at the bottom of your project.
