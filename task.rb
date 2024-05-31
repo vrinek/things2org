@@ -6,10 +6,10 @@ require_relative "checklist_item"
 
 class Task < TaskBase
   def to_org(level: 1)
-    org = org_header(level: level)
+    org = org_header(level:)
     org << org_timings
     org << org_properties
-    org << note.to_org
+    org << note.to_org(level: level + 1)
 
     if checklist_items.any?
       org << "\n"

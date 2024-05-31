@@ -136,6 +136,7 @@ Finding things is super easy with Quick Find. Collapse this to-do, and then just
 Tags allow you to customize your workflow in Things.
 
 For example, you can...
+
 - Use tags for places like "Office" or "Home".
 - Tag all your "Errands".
 - Prioritize to-dos with an "Important" tag.
@@ -233,11 +234,15 @@ Things supports Markdown for adding structure and style to your notes.
 If you don't know Markdown, here's how it works. To emphasize a word, simply surround it with asterisks, like so: /emphasized/. As you can see, Things detects this and displays the word in italics. If you remove those asterisks, it will go back to normal.
 
 Here are a few more examples:
+
 - Use two asterisks to make text *bold*
 - Use colons to =highlight text=
 - Insert "#" at the beginning of a line to make a heading, like so:
 
 *** This is a heading
+:PROPERTIES:
+:CUSTOM_ID: this-is-a-heading
+:END:
 
 --------------
 
