@@ -89,9 +89,9 @@ Widgets let you quickly access your lists from your Mac's desktop (macOS 14 or l
 
 You can add as many widgets as you like. Here's how:
 
-- [ ] In the top right corner of your screen, click the time to reveal the Notification Center
-- [ ] At the bottom of the Notification Center, click the buttor no Edit Widgets
-- [ ] Search for Things and add a widget (make sure you're adding a widget for the Mac version of Things, not the iPhone version)
+- [ ] In the top right corner of your screen, click the time to reveal your Notification Center
+- [ ] At the bottom of the Notification Center, click the button to Edit Widgets
+- [ ] Search for Things and add a widget (make sure you’re adding a widget for the Mac version of Things, not the iPhone version)
 - [ ] Right-click the widget to edit which list it shows
 
 ** TODO Sync your devices
@@ -153,9 +153,9 @@ Break a to-do down into smaller steps by adding a checklist. You could use it to
 
 And who knew it was so easy to make peanut butter cookies? 😃
 
-- [ ] Preheat the oven to 350F (175C)
-- [ ] Mix 1 cup of peanut butter, 1 cup of white sugar, and 1 egg with an electric mixer until it's smooth and creamy
-- [ ] Arrange small balls on a baking sheet and flatten them with a form, making a criss-cross pattern
+- [ ] Preheat the oven to 350ºF (175ºC)
+- [ ] Mix 1 cup of peanut butter, 1 cup of white sugar, and 1 egg with an electric mixer until it’s smooth and creamy
+- [ ] Arrange small balls on a baking sheet and flatten them with a fork, making a criss-cross pattern
 - [ ] Bake in the oven for 10 minutes, then cool for 2 minutes
 
 ** TODO Set a reminder so you won’t forget

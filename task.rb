@@ -2,10 +2,21 @@ require_relative "task_base"
 require_relative "project"
 require_relative "note"
 require_relative "header"
+require_relative "checklist_item"
 
 class Task < TaskBase
   def to_org(level: 1)
-    org_header(level:) + org_timings + org_properties + note.to_org
+    org = org_header(level: level)
+    org << org_timings
+    org << org_properties
+    org << note.to_org
+
+    if checklist_items.any?
+      org << "\n"
+      org << checklist_items.map(&:to_org).join
+    end
+
+    org
   end
 
   def project
@@ -30,6 +41,11 @@ class Task < TaskBase
 
   def header_id
     last_event_prop("agr")&.first
+  end
+
+  def checklist_items
+    ChecklistItem::STORE.select { |item| item.task_id == id }
+      .sort_by(&:index)
   end
 end
 

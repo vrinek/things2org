@@ -9,6 +9,7 @@ require_relative "area"
 require_relative "task"
 require_relative "header"
 require_relative "project"
+require_relative "checklist_item"
 require_relative "item_json_merger"
 require_relative "org_file_title"
 
@@ -22,6 +23,7 @@ class ThingsOrg
     initialize_projects_store!
     initialize_tasks_store!
     initialize_headers_store!
+    initialize_checklist_items_store!
   end
 
   def inbox_org
@@ -166,5 +168,19 @@ class ThingsOrg
 
   def headers
     Header::STORE
+  end
+
+  def initialize_checklist_items_store!
+    ChecklistItem::STORE.clear
+
+    item_events
+      .select { |item_event| item_event.payload["e"] == "ChecklistItem3" }
+      .group_by(&:item_id)
+      .map { |item_id, events| ChecklistItem.new(item_id, events) }
+      .each { |checklist_item| ChecklistItem::STORE << checklist_item }
+  end
+
+  def checklist_items
+    ChecklistItem::STORE
   end
 end
